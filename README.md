@@ -19,9 +19,9 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/hunterh37/DicyaninARKitSession.git", from: "0.0.1")
+    .package(url: "https://github.com/hunterh37/DicyaninARKitSession.git", from: "1.1.1")
 ]
-
+```
 
 ## Usage
 
